@@ -11,6 +11,18 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto75o&label=Profile%20views&color=0e75b6&style=flat" alt="shanto75o" /> </p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙵𝙻𝙰𝙼𝙴+𝚂𝙷𝙰𝙽𝚃𝙾;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝙴+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+  
+  </p>
+
+<p align="center"> 
+
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+
+ <img src="https://profile-counter.glitch.me/shanto75o/count.svg" />
+
+</p>
+
+
 
 ![68747470733a2f2f64656e766572636f646572312d61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170682f3f757365726e61 31463232324526636f6c6f723d463844383636266c696e653d46383544374626706f696e743d46464646464626686964655f626f726465723d74727565](https://user-images.githubusercontent.com/104133480/192364816-d42142c3-0ccc-43ff-8df9-a26b6fd3bb38.svg)
 
