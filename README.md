@@ -3,7 +3,7 @@
 
 <h3 align="center">
 
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">&nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝚂𝙷𝙰𝙽𝚃𝙾 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">&nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙵𝙻𝙰𝙼𝙴-𝚂𝙷𝙰𝙽𝚃𝙾 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto75o&label=Profile%20views&color=0e75b6&style=flat" alt="shanto75o" /> </p>
