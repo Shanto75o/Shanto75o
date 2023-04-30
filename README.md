@@ -42,3 +42,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanto75o&show_icons=true&locale=en&layout=compact" alt="shanto75o" /></p>
 
 ![68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d5249444f592d3430342d4359424552267468656d653d6d6f6e6f6b6169](https://user-images.githubusercontent.com/104133480/192365614-db4f2909-30e3-49ac-ade6-f2c504b922cd.svg)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanto75o&show_icons=true&locale=en" alt="shanto75o" /></p>
